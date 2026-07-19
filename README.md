@@ -1,2 +1,12 @@
-# AI-HOW-TO
-this repo is created by M. and i just love to share my progress in the learning curve of ML/DL and like just generally AI ! and here you can find very basic ML models created by Me starting by a Bigram model and the name is main idea is by Andrej Karpathy.
+# AI Engineering Roadmap
+
+Welcome! This repository tracks my journey through a comprehensive AI Engineering roadmap, moving from absolute beginner to a deep, production-grade understanding of AI systems. 
+
+> [!NOTE]
+> This README is a work in progress. Content and project files will be populated dynamically as each phase of the learning roadmap is completed!
+
+## Learning Strategy
+We will learn in structured phases—building everything from scratch (including autograd engines, MLPs, and Transformers) to truly master the underlying math and engineering principles.
+
+I hope you find this repository useful as a resource for your own learning! 
+— Created by **WOOLMO**
