@@ -1,1 +1,3 @@
+This Phase Is Based On Andrej Karpathy Course.
+
 I Really See No Need For MICROGRAD CODE , I Highly Suggest Watching The Full Lecture Its Useful! but its code can contain Some Considerd Complex OOP Code, So I Just Suggest You Follow Along With Andrej. So You Can Get A Full Idea Of Gradients And Backpropagation. Though It Still Going To Appear On Backpropagation Ninja Lecture.
