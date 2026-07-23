@@ -5,3 +5,4 @@ max_logits = logits.max(dim=1,keepdim=True).values
 stable_logits = logits - max_logits
 
 exponentials = torch.exp(stable_logits)
+sum_exponentials = exponentials.sum(dim=1, keepdim=True)
